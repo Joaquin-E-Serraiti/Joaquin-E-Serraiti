@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Joaquín E. Serraiti 👋
+
+## 🌟 About Me
+
+I love the mix of logic and creativity that is involved in programming. Some of the activities I enjoy are: drawing, writing, designing attractive visuals, solving puzzles and reading.
+
+## 📚 Interests
+- Algorithm design & optimization
+- Developing engaging tools and programs with attractive visuals
+- Artificial Intelligence
 
 <!--
 **Joaquin-E-Serraiti/Joaquin-E-Serraiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
